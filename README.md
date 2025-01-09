@@ -3,7 +3,7 @@ Program Name: CrossyRoad
 
 Project Overview:
 
-I(Nikolay) have decided to improve my GUI project which was a modified version of Crossy Road. 
+I, Nikolay, have decided to improve my GUI project which was a modified version of Crossy Road. 
 In Crossy Road the player(Chicken) tries to cross the road and avoid the cars. The game runs until the chicken gets hit or isn’t on the screen.
 I will try to make the cars move in one direction like in the actual game with different car models. Also, I want to make it run infinitely until the user messes up.
 The main theme will be fun and colorful, but I plan to add an option to change skins. With the ability to change skins the environment will change as well according to the skin.
